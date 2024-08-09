@@ -6,7 +6,7 @@ This repository contains solutions to various Data Structures and Algorithms (DS
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/repo-name.git
+    git clone https://github.com/devoleper-samreen/DSA-WITH-ROHIT-NEGI.git
     ```
 2. Compile and run the C++ files using a C++ compiler.
 
